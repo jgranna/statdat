@@ -1,3 +1,7 @@
+# NeuralNet 
+
+In diesem Ordner sind Dateien zur Visualisierung eines Neuronalen Netzes gespeichert, das gezeichnete Zahlen erkennen soll.
+
 # statdat
 
 In diesem Repo wird Code fuer das PS Statistische Datenanalyse geteilt.
